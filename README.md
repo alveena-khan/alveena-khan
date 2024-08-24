@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python, Data Extraction and NLP
 - 💞️ I’m looking to collaborate on companies that help me learn and grow
 - 📫 Contact me : 7999379858 , mail: alveek1518@gmail.com
-- 😄 Pronouns: ...
+- 😄 I am good at Excel, SQL, Bigquery, Tableau, Data cleaning and visualisation, and R programming language
 - ⚡ Fun fact: ...
 
 <!---
